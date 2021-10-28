@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     deleteIcon: {
         width: 50,
         height: 50,
-        backgroundColor: '#4ecdc4',
+        backgroundColor: 'yellowgreen',
         position: "absolute",
         top: 40,
         right: 30,
